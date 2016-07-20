@@ -18,6 +18,8 @@ For more info please refer to http://vertx.io/docs/
 
 === Usage from Ceylon
 
+Only once you need to compile examples.utils module
+> ceylon compile examples.utils
 ----
 > ceylon compile examples.core.http.simple.server
 Note: Created module examples.core.http.simple.server/1.0.0
