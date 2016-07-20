@@ -18,8 +18,9 @@ For more info please refer to http://vertx.io/docs/
 
 === Usage from Ceylon
 
-Only once
+
 ----
+Only once.
 > ceylon compile examples.utils
 Note: Created module examples.utils/1.0.0
 ----
